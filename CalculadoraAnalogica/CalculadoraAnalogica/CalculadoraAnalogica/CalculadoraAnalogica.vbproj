@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>CalculadoraAnalogica</RootNamespace>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="\\192.168.21.105\ambientes\14378\Desktop\14378\Programação\.net\2P-PROG-VB-FICHA1-14378,.vb" Link="2P-PROG-VB-FICHA1-14378,.vb" />
+  </ItemGroup>
+
+</Project>
