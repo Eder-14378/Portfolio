@@ -1,0 +1,10 @@
+C:\Users\simao\OneDrive\Ambiente de Trabalho\trabalho\Platform Game\Platform Game\bin\Debug\Platform Game.exe.config
+C:\Users\simao\OneDrive\Ambiente de Trabalho\trabalho\Platform Game\Platform Game\bin\Debug\Platform Game.exe
+C:\Users\simao\OneDrive\Ambiente de Trabalho\trabalho\Platform Game\Platform Game\bin\Debug\Platform Game.pdb
+C:\Users\simao\OneDrive\Ambiente de Trabalho\trabalho\Platform Game\Platform Game\obj\Debug\Platform Game.csproj.AssemblyReference.cache
+C:\Users\simao\OneDrive\Ambiente de Trabalho\trabalho\Platform Game\Platform Game\obj\Debug\Platform_Game.Form1.resources
+C:\Users\simao\OneDrive\Ambiente de Trabalho\trabalho\Platform Game\Platform Game\obj\Debug\Platform_Game.Properties.Resources.resources
+C:\Users\simao\OneDrive\Ambiente de Trabalho\trabalho\Platform Game\Platform Game\obj\Debug\Platform Game.csproj.GenerateResource.cache
+C:\Users\simao\OneDrive\Ambiente de Trabalho\trabalho\Platform Game\Platform Game\obj\Debug\Platform Game.csproj.CoreCompileInputs.cache
+C:\Users\simao\OneDrive\Ambiente de Trabalho\trabalho\Platform Game\Platform Game\obj\Debug\Platform Game.exe
+C:\Users\simao\OneDrive\Ambiente de Trabalho\trabalho\Platform Game\Platform Game\obj\Debug\Platform Game.pdb
